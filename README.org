@@ -1,0 +1,3 @@
+* Description
+  A collection of code samples from the book Practical Common Lisp by Peter Seibel.
+  The purpose of this repository is mainly for me to keep my motivation while learning Common Lisp. It also remains as a reference that I can go back to quickly when needed.
